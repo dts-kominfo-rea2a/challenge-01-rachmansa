@@ -36,5 +36,5 @@ function main() {
 main();
 
 module.exports = {
-    users
+    users,
 };
